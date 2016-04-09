@@ -1,0 +1,66 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+* {
+    margin: 0;
+    padding: 0;
+}
+    
+
+  html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+
+    header {
+        background-color: ;
+        padding: 5px;
+        font-size: 28px;
+        font-family: sans-serif;
+        display: block;
+    }
+    
+    nav {
+        float: center;
+        font-family: Arial;
+        font-size: 14px;
+    }
+
+    .navlinks {
+        background-color: yellow;
+    }
+
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        font-family: Arial;
+        float: left;
+        padding-left: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        float: right;
+        min-height: 100%;
+        font-family: Arial;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
